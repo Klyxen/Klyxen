@@ -1,16 +1,23 @@
-## Hi there 👋
+Klyxen | BSIT Student & Cybersecurity Enthusiast
+Aspiring Cybersecurity Specialist with a strong interest in Linux, networking, and ethical hacking. Currently learning the fundamentals of cybersecurity while expanding my knowledge in web development and programming.
 
-<!--
-**Klyxen/Klyxen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 About Me
+BSIT 1st Year Student | Focused on Cybersecurity & Linux
 
-Here are some ideas to get you started:
+Web Developer | HTML, CSS, JavaScript, Firebase, Netlify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cybersecurity & Networking Learner | Linux, Bash, Netcat, Nmap, Fcrackzip
+
+Currently Building | KLYXEN – A custom programming language
+
+🔹 What I'm Working On
+Strengthening Linux & Networking skills
+
+Learning penetration testing & ethical hacking tools
+
+Improving KLYXEN for better functionality
+
+🔹 Connect & Learn
+Check out my projects here
+
+Always exploring new security techniques & development trends
