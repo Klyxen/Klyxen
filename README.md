@@ -2,7 +2,9 @@
 <p align="center">
   <em> BSIT Student & Cybersecurity Enthusiast </em>  
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 ---
 ### About Me
 
@@ -28,8 +30,3 @@ Currently learning the fundamentals of cybersecurity while building skills in we
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kyle_Amarante-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kyle-amarante-91642135a)
 ---
-
-### GitHub Stats (Optional)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
