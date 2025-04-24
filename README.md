@@ -13,18 +13,18 @@ Currently learning the fundamentals of cybersecurity while building skills in we
 
 ### Me
 
-- 🎓 BSIT 1st Year Student  
-- 🎯 Focus: **Cybersecurity, Linux, Web Development**  
-- 🛠️ Tools & Languages:  
+-  BSIT 1st Year Student  
+-  Focus: **Cybersecurity, Linux, Web Development**  
+-  Tools & Languages:  
   `HTML` `CSS` `JavaScript` `Firebase` `Netlify`  
   `Linux` `Bash` `Netcat` `Nmap` `Fcrackzip`  
-- 💡 Currently Building: **KLYXEN** – A chat-to-chat web app
+-  Currently Building: **KLYXEN** – A chat-to-chat web app
 
 ### What I'm Working On
 
-- 🐧 Strengthening Linux & Networking skills  
-- 🔐 Learning penetration testing & ethical hacking tools  
-- ⚙️ Improving **KLYXEN** for better functionality  
+-  Strengthening Linux & Networking skills  
+-  Learning penetration testing & ethical hacking tools  
+-  Improving **KLYXEN** for better functionality  
 
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kyle_Amarante-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kyle-amarante-91642135a)
