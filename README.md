@@ -8,7 +8,7 @@
 
 ### About Me
 
-Aspiring Cybersecurity Specialist with a strong passion for Linux, networking, and ethical hacking.  
+Aspiring Cybersecurity Specialist with a strong passion for Linux, networking, building tools, and ethical hacking.  
 Currently learning the fundamentals of cybersecurity while building skills in web development and programming.
 
 ### Me
