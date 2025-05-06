@@ -3,7 +3,7 @@
   <em> BSIT Student & Cybersecurity Enthusiast </em>  
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Klyxen&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Klyxen&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 ### About Me
