@@ -15,9 +15,12 @@ Currently learning the fundamentals of cybersecurity while building skills in we
 
 -  BSIT 1st Year Student  
 -  Focus: **Cybersecurity, Linux, Web Development**  
--  Tools & Languages:  
-  `HTML` `CSS` `JavaScript` `Firebase` `Ubuntu`  
-  `Linux` `Bash` `Netcat` `Nmap` `Backburner`.
+-  Tools : 
+   `Nmap` `Wireshark` `Hydra` `Netcat` `Firebase` `Netlify` `Backburner`
+-  Programming Languages : 
+   `Python` `Bash` `HTML/CSS` `JS`
+-  Systems : 
+   `Ubuntu` `Linux` `Kali`
 
 ### What I'm Working On
 
