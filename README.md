@@ -5,7 +5,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Klyxen&theme=github_dark)
 
-![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
+![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Klyxen&show_icons=true&theme=github_dark)
 
 ### About Me
 
