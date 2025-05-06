@@ -11,6 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klyxen&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
+___
+
 ### About Me
 
 Aspiring Cybersecurity Specialist with a strong passion for Linux, networking, building tools, and ethical hacking.  
@@ -37,6 +39,3 @@ Currently learning the fundamentals of cybersecurity while building skills in we
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kyle_Amarante-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kyle-amarante-91642135a)
 
 ___
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klyxen&layout=compact&theme=github_dark)
