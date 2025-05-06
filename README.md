@@ -3,7 +3,7 @@
   <em> BSIT Student & Cybersecurity Enthusiast </em>  
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Klyxen&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Klyxen&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 
 ### About Me
@@ -31,3 +31,10 @@ Currently learning the fundamentals of cybersecurity while building skills in we
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kyle_Amarante-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kyle-amarante-91642135a)
 
+___
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Klyxen&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Klyxen&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klyxen&layout=compact&theme=dracula)
