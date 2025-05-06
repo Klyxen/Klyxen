@@ -33,8 +33,8 @@ Currently learning the fundamentals of cybersecurity while building skills in we
 
 ___
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Klyxen&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Klyxen&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Klyxen&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=Klyxen&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klyxen&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klyxen&layout=compact&theme=github_dark)
