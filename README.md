@@ -2,10 +2,10 @@
 <p align="center">
   <em> BSIT Student & Cybersecurity Enthusiast </em>  
 </p>
-<p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Klyxen&theme=github_dark)
-  <img src="https://github-readme-stats.vercel.app/api?username=Klyxen&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Klyxen&theme=github_dark)
+
+![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
 
 ### About Me
 
