@@ -7,6 +7,10 @@
 
 ![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Klyxen&show_icons=true&theme=github_dark)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klyxen&layout=compact&theme=github_dark" alt="Top Langs" />
+</p>
+
 ### About Me
 
 Aspiring Cybersecurity Specialist with a strong passion for Linux, networking, building tools, and ethical hacking.  
