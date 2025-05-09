@@ -3,9 +3,13 @@
   <em> BSIT Student & Cybersecurity Enthusiast </em>  
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Klyxen&theme=github_dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Klyxen&theme=github_dark" alt="GitHub Streak">
+</p>
 
-![Kyle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Klyxen&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Klyxen&show_icons=true&theme=github_dark" alt="Kyle's GitHub Stats">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klyxen&layout=compact&theme=github_dark" alt="Top Langs" />
