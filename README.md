@@ -24,7 +24,7 @@ Currently learning the fundamentals of cybersecurity while building skills in we
 
 ### Me
 
--  BSIT 1st Year Student  
+-  BSIT Student  
 -  Focus: **Cybersecurity, Linux, Web Development**  
 -  Tools : 
    `Nmap` `Wireshark` `Hydra` `Netcat` `Firebase` `Netlify` `Backburner`
