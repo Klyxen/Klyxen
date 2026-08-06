@@ -5,30 +5,22 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kyle_Amarante-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyle-amarante-91642135a)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Klyxen&theme=github_dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klyxen&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ---
 
-### 📊 Quick Metrics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-Tracking-blue?style=for-the-badge&logo=github" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-success?style=for-the-badge&logo=codechef&logoColor=white" alt="Status" />
-</p>
-
----
-
-### 👨‍💻 About Me
+### About Me
 
 Aspiring Cybersecurity Specialist with a strong passion for Linux, networking, building tools, and ethical hacking.  
 Currently learning the fundamentals of cybersecurity while building skills in web development and programming.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 | Category | Technologies / Tools |
 | :--- | :--- |
@@ -39,15 +31,15 @@ Currently learning the fundamentals of cybersecurity while building skills in we
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Working On
 
-* 🛡️ Strengthening Linux & Networking skills  
-* 🎯 Learning penetration testing & ethical hacking tools  
-* 🔍 Understanding cybersecurity and red teaming  
+* Strengthening Linux & Networking skills  
+* Learning penetration testing & ethical hacking tools  
+* Understanding cybersecurity and red teaming  
 
 ---
 
-### 📬 Connect With Me
+### Connect
 
 <div align="center">
 
